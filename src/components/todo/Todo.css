@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Bangers&family=Carter+One&family=Lobster&family=Lobster+Two&family=Patua+One&family=Rubik+Bubbles&family=Rubik+Puddles&family=Rubik+Storm&family=Staatliches&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Bangers&family=Carter+One&family=Lobster&family=Patua+One&family=Rubik+Bubbles&family=Rubik+Puddles&family=Rubik+Storm&display=swap');
+.users-data{
+    font-family: 'Barlow Condensed', sans-serif;
+}
+j
+
+.card{
+   
+ 
+    color: rgb(56, 78, 70);
+}
+.email{
+    color: rgb(143, 15, 198);
+   font-family: initial;
+}
+.dob
+{
+    color: rgb(157, 5, 5);
+  
+}
+.st,.end,.categ,.sta{
+    font-size: 20px;
+}
+
+.name{
+   color: rgb(7, 99, 138);
+    text-transform: capitalize;
+  font-size: 40px;
+   
+
+  
+}
+.profile-image{
+    border-radius: 50%;
+    max-width: 300px;
+    width: 100%;
+    height: 300px;
+    overflow: hidden;
+}
+
+.back-to-add-user{
+    float: right;
+    border: none;
+   border-radius: 50%;
+   background-color: rgb(207, 52, 166);
+    padding: 2px 20px;
+
+    font-size: 2rem;
+    font-weight: bolder;
+    color:white;
+    cursor: pointer;
+    position: fixed;
+    top: 100px;
+    right: 10px;
+    z-index: 1;
+}
+
+.edit-form{
+  
+    background-size: contain;
+}
+
+.modal{
+    background-size: cover;
+}
+.tetx{
+    color: rgb(171, 200, 54);
+
+
+    font-family: 'Lobster', cursive;
+    font-family: 'Patua One', cursive;
+
+margin-bottom: 30px;
+    font-size: 50px;
+    margin-top: 30px;
+}
+.users{
+    font-size: 40px;
+}

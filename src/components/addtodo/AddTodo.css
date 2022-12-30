@@ -1,0 +1,12 @@
+.user{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(196, 46, 181);
+    margin-bottom: 70px;
+}
+
+@media  screen and (min-width:769px) {
+    .c{
+        display: flex;
+        gap:10px;
+    }
+}

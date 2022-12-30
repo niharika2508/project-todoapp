@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "todo": "morning walk",
+      "starttime": "6:00AM",
+      "endtime": "7:00AM",
+      "category": "public",
+      "status": "completed",
+      "id": 80
+    },
+    {
+      "todo": "reading",
+      "starttime": "8:00AM",
+      "endtime": "10:00AM",
+      "category": "private",
+      "status": "completed",
+      "id": 92
+    },
+    {
+      "todo": "Watching TV",
+      "starttime": "1:00PM",
+      "endtime": "3:00PM",
+      "category": "public",
+      "status": "not completed",
+      "id": 13
+    },
+    {
+      "todo": "playing",
+      "starttime": "5:00PM",
+      "endtime": "6:00PM",
+      "category": "others",
+      "status": "Yet to start",
+      "id": 73
+    }
+  ],
+  "removedusers": [
+    {
+      "todo": "sleeping",
+      "starttime": "9:00PM",
+      "endtime": "6:00AM",
+      "category": "others",
+      "status": "not completed",
+      "id": 45
+    }
+  ]
+}
